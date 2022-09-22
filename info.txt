@@ -1,2 +1,3 @@
 UK Biobank "well" data field : 22008
 UK Biobank "plate" data field : 22007 
+scp -P 3030 -c aes128-cbc filename root@163.180.38.55:/path
